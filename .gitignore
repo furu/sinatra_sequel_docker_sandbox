@@ -1,0 +1,4 @@
+/bin/kamimai
+/bin/wait-for-it.sh
+/.env
+/vendor/bundle
